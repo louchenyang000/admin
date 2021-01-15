@@ -1,0 +1,10 @@
+.admin_header {
+  height: 80px;
+  border-bottom: 1px solid #ccc;
+}
+.admin_header .top {
+  height: 39px;
+  line-height: 39px;
+  border-bottom: 1px solid #ccc;
+  text-align: right;
+}

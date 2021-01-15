@@ -1,0 +1,21 @@
+.login .login-header {
+  height: 80px;
+  background: #000;
+  line-height: 80px;
+  color: #fff;
+  font-size: 28px;
+}
+.login .login-header img {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+}
+.login .login-content {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 400px;
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  box-shadow: 0 0 0 0;
+}
